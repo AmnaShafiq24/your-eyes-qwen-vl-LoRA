@@ -1,0 +1,16 @@
+# secrets
+kaggle.json
+*.env
+.env
+# training junk (huge, not needed)
+outputs/
+outputs_fast/
+outputs_vision/
+*.zip
+# data
+currency_dataset/
+edibles_dataset/
+dataset_checkpoint.json
+# python / notebook
+__pycache__/
+.ipynb_checkpoints/
